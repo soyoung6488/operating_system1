@@ -11,6 +11,7 @@ public class sorting_thread implements Runnable{
 	@Override
 	public void run() {
 		//배열가지고 sorting
+		int a=4;
 	}
 
 }
